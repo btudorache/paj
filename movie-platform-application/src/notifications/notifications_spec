@@ -1,0 +1,3 @@
+notify users when a new movie appearrs (observer pattern users subscribe to newMovieService with a callback)
+
+maybe make 2 notifications service and use a factory to create them
